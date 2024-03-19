@@ -1,4 +1,4 @@
-name: Demo Python Workflow
+name: pytest单元测试和代码覆盖率采集
 on: [push]
 jobs:
   build:
